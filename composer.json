@@ -1,5 +1,5 @@
 {
-    "name": "open-telemetry/sdk",
+    "name": "stanbic-open-telemetry/sdk-one",
     "description": "SDK for OpenTelemetry PHP.",
     "keywords": ["opentelemetry", "otel", "metrics", "tracing", "logging", "apm", "sdk"],
     "type": "library",
